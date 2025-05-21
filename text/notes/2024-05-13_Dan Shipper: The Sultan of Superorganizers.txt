@@ -1,0 +1,386 @@
+Dan Shipper: The Sultan of Superorganizers
+Subscribe
+≡
+About
+Collections
+Contact Us
+Sponsor Us
+Login
+Superorganizers
+Dan Shipper: The Sultan of Superorganizers
+We turn the tables to reveal the systems and processes he uses to run his life
+by
+Kieran O‘Hare
+March 25, 2021
+38
+9
+Listen
+Hey all! Dan here—today is a special edition of Superorganizers. We're turning the tables! The amazing
+Kieran O'Hare
+who has co-written many editions of this newsletter over the last few months is writing one about me. I think you're going to love it. Enjoy!
+I’ve been working with Superorganizers founder Dan Shipper for a while now, so I suggested that he let me profile him for this newsletter. I mean, why not, right?
+Well, he agreed—after a little convincing—and we scheduled an interview.
+So what would
+you
+expect of a guy who started a publication about ‘how smart people organize what they know’? A veritable overlord of organization? A guru of GTD? A nabob of Notion, maybe? A royal duke in the realm of Roam??
+Perhaps.
+Me? I really wanted Dan Shipper to be a hot friggin’ mess.
+Yes, I admit it freely: I wanted Dan Shipper to be a planless putz, a disgrace to productivity, a monument of disorganization—a shambling schlub failing miserably to comprehend let alone impose any order upon the chaos of this unfathomable world. What delicious, soul-filling irony that would have been!
+Failing that, of course, it would have pleased me no less if Dan Shipper had been an utter circus freak who listened to two audiobooks and five podcasts simultaneously at 20x normal speed while running his daily marathon, speed-dialing his P.A., and mentally reorganizing his Airtable—with electrodes strapped to his head to track the beautiful upward-sweeping curve of his profoundly expanding neural capacity. All while live-simulstreaming his hopes, dreams, and fears to YouTube, Clubhouse, and Twitch, natch.
+The reality? What a letdown.
+It turns out that Dan—who spends every day of the week up to his ears in how other people organize what they do, know, and learn—is neither yutz nor savant.
+In fact, he’s a lot like the rest of us: we’ve all had to learn that figuring out how to do our best work is not a destination, but a journey.
+Here, Dan gives us the details of his own personal journey: his first forays into productivity as a young founder, the techniques he uses as a perspicacious reader and seeker of knowledge, and his realization that earnest self-examination can be a powerful organizational tool.
+From my point of view, Dan embodies what we hope you get out of Superorganizers—that the ways we approach how we work can also help us to lead richer, more meaning-filled lives.
+Let’s take a look at what he’s up to.
+Dan Shipper introduces himself
+I’m the co-founder and CEO of
+Every
+, which is a bundle of business-focused newsletters that we started in late 2019. As part of that bundle, I write this newsletter, Superorganizers, where the goal is to interview the smartest people in the world about how they organize themselves to do their best work.
+Before all this though, I was basically out in the wilderness for several years figuring out what I wanted to do with my life.
+I had started a company called
+Firefly in college and sold it to Peg
+a—a large enterprise software company, but after that I wasn’t ready to fully jump into anything for some time. I did some investing, I worked in a startup incubator, and I even wrote four drafts of a novel—but it wasn’t until fall of 2019 that I landed on this newsletter.
+I was thinking about starting another software company, but I wasn't sure exactly what I wanted to build. Maybe some sort of productivity tool? So I decided to start a newsletter in order to learn about the tools people use, and build an audience that I could launch something to. But then the plans changed, and it turned into a media company, and here we are.
+It's very exciting and it's exactly what I wanted to do, I just took a very circuitous route to get here. I think that in hindsight, everything looks
+less accidental than it actually is
+!
+How I got interested in productivity
+I was 20 or 21 when I got really obsessed with productivity. As a very young founder, I had to learn a lot very quickly—I felt like I had to be an information processing machine. I was getting bombarded with a tremendous amount of information, whether it was from customer feedback, from mentors, or in the articles and books I was reading.
+Some of that info was definitely useful for me at that particular moment in my life, but I felt like most of it was more likely to be useful at some unknown point in my future. I wanted to construct a bunch of systems to keep all that information organized so I could find it whenever I needed it.
+I also needed systems just to help me keep my life together—I was running a company at the same time as I was in college. I was taking calls in the middle of the night on our 24/7 customer service hotline, and then waking up the next morning to take a final! Productivity was a way to exert some amount of control and order over what definitely felt like a chaotic and difficult list of things that I was responsible for.
+Naturally, my goals with productivity have changed over time. I would say that more of what I do now is about making sure that I'm staying productive and not dropping any balls, and less about trying to learn as much as I can and trying to figure out  how to remember all of it!
+On top of that, I have to say that the interviews I do for Superorganizers constantly filter into my life in interesting and valuable ways. As a result, my productivity setup is completely different now than it was before I started talking to people about it.
+As
+Every
+expands, I’m starting to enter more uncharted territory—I’ve built companies before, but I’ve never built a media company! I'm still learning new stuff all the time, and there are so many aspects of this business that I don't know about.
+My ‘typical’ day
+I think of my work in general as being divided into what I do on the publication side and what I do as a CEO. In the first case, I'm responsible for Superorganizers—I conduct interviews and do all the editing and some of the writing for that. In addition to that, across the whole bundle of newsletters we publish, I do a lot of editing and help out with planning and scheduling.
+As the CEO of Every, I run things on a day-to-day basis. That involves thinking about everything from last week’s metrics to our goals for the next several months. I spend a lot of time on strategy—where are we going and what are we doing. I handle communication with both our investors and our subscribers. In addition, we built our own platform, so that’s involved an insane amount of work with my business partner Nathan Baschez in trying to figure out how that should work—and what the future should be.
+On a typical day, when I get up, I check my calendar to get a handle on what’s ahead. Then on Mondays, Wednesdays, and Fridays I go for a 2-3 mile run and then do a workout at home with a trainer on Zoom. On the other days I meditate for 25 minutes or do some kind of free writing to get myself ready for work. It’s a little inconsistent though—I often just sleep in instead.
+Here’s a shot of my calendar (with meeting titles redacted):
+I try to leave my mornings open if I can—that's when I do most of the writing or editing I need to take care of. Nathan doesn't wake up until around noon my time because he's on the west coast, so mornings tend to be mostly quiet for me. On the other hand, afternoons are for meetings.
+This was a busy day for me—not every day is like that. But days like this are getting more frequent over time as the business expands.
+On Tuesdays and Thursdays I have what I call ‘Focus Days’. The goal of those days is fairly straightforward: I need space in my week where I can get creative work done. Ideally, what I want is long blocks of uninterrupted time. It’s really hard to do that if I have meetings—even if there are only a few sprinkled throughout the day. It doesn’t always work out—but I’m trying!
+I use Roam as a daily tracker
+Once I really get started into my work for the day, I use Roam to keep a record of what I need to do, as well as what I get accomplished. Everything work-related goes into the ‘Every Journal’—that way I can keep everything involving the company in one place.
+A nice thing about Roam is that it lets you track
+pomodoros
+—twenty-five-minute work sprints. You just press start, and then it'll keep time as you tackle a block of work. I really like that, because that means that a record of what you’ve done is tied to the day, and it's tied into the Every Journal.
+I also keep an ‘Interstitial Journal’, which is something I picked up from
+Tony Stubblebine
+. It’s essentially a cross between a journal and a to-do list. You check off items as you get them done, and it also allows you to record the things you’ve done after the fact. Seeing that I’ve accomplished certain things gives me a little bit of juice in the day.
+For each item, I’ll create a Pomodoro, hit start, do the work I need to do, then check it off here in Interstitial Journal once I’m finished.
+I use Morning Pages in Roam to help myself stay mindful
+Most days, I feel like I have a dream job, but sometimes it's hard to really feel that unless I make myself deliberately think about it. That’s where ‘Morning Pages’ comes in. It’s basically a series of prompts to help me pay attention to the things in my life that I'm grateful for, that I'm in awe of, or that I might be holding onto or anxious about.
+Traditionally, with morning pages, you throw them out after you’ve written them—the theory is that it encourages you to be more spur-of-the moment and honest. I’ve tried that, but right now I’m doing it in Roam because I like the idea that they’re searchable.
+I'll alt-drag a prompt from the list at the right of the screen into today’s Interstitial Journal, and then just start writing my response to it underneath. I can use the process as a mood-changer to help me get to the place I want to be, or to examine something I’m struggling with. Later on, all those responses will be gathered in one place too, which is really nice.
+I do this most weekdays, and I’ll write for maybe ten or fifteen minutes. Doing this kind of work is a really good warm-up—for writing in particular. It helps me get a bunch of stuff out of my brain so I can really get into the flow of writing. I can actually begin to put meaningful words on paper once I take ten to fifteen minutes to get all the garbage out of my head!
+How I approach reading
+My reading consumption has been a bit lower than usual recently—probably because I feel like I'm reading all day for work. Don’t get me wrong: I love that reading and writing are my business, because they’re things that I love. But at the end of a day of edits and writing and reading countless new articles, sometimes I feel like I cannot look at another word, and I just want to turn my brain off.
+Having said that, I still read an awful lot. I tend to read physical books, especially if I think the book is something I’m going to want to reference often. I also read some on Kindle, and do audiobooks. If I ever listen to an audiobook, it's likely going to be something that I’ve already read before that's just enjoyable for me to revisit.
+I think that some people feel that any downtime they have must be filled with trying to absorb as much information as possible. Even walking down the street, they’ll be listening to a podcast or an audiobook. Though that actually makes perfect sense to me—I’ve been there!—reading is just not about maximal efficiency for me at this point in my life. I’m much less about trying to take in information in bulk, and much more about swimming in some really high-quality ideas and writing.
+It’s a little embarrassing to admit that at the beginning of the pandemic I would go to sleep listening to Harry Potter just because it was so comforting. There was so much uncertainty, and sirens were going off all night here in New York—I just needed something to make me feel OK. Having Harry Potter on audiobook was perfect!
+I use Evernote to track my Weekly Priorities
+I’ve made a list of the major buckets in my life that I want to be sure to pay attention to.
+I alternate between using Evernote and Roam for this. I think it’s good to use both just to make sure both
+Tiago
+and
+Conor
+are pissed at me at all times.
+At the beginning of every week, usually on Sunday, I’ll write out the major things I need to do in each of them.
+This is important to me because while I’ve found that with work stuff I’m not normally likely to drop the ball that much—probably because I have people depending on me—there are other places in my life where it can be less obvious when I’m doing a bad job.
+For me, a good example is my friends. It can be easy to let your relationships with your friends suffer when you're busy. I need to regularly examine how my relationship is with them and ask questions like am I there for them? Am I talking to them often?
+I've found that this works really well, both for making sure that those things in my life that are not necessarily always top of mind—like friends, or the spiritual side of my life—get the amount of attention that they deserve, and for helping me to pare down what I really need to pay attention to.
+To be realistic with what I can accomplish in a week, out of all those buckets I'll pick three top priorities that I regard as must-dos. Underneath them I’ll have a couple of ‘nice-to-haves’—the items that I’ll feel less bad about not getting to.
+If I don’t get to everything else on the list, I’ll forgive myself, because the fact is that I simply do have a lot going on, and it's impossible for me to do
+everything
+that I think I need to do.
+I have to admit that I don’t always do this process. Sometimes it’s more useful, and sometimes it feels less useful. I allow myself to do it when I feel like I need it.
+I use Notion to keep track of my personal priorities and principles
+I have a Notion, which I think is really cool—I have it structured so it’s almost like a manual for my whole life.
+Before I got Superorganizers up and running, I had written four drafts of a novel that I still plan to get back to one day! I keep it all in here—all my characters and ideas and text.
+Another thing I do is keep a running list of Core Operating Principles, which can often be helpful to me when I’m feeling uncertain, or I’m trying to figure out how to handle a particular situation that comes up.
+Among those principles is some wisdom I learned from my grandfather, who died last year. There were some things he used to say or do that I felt I needed to keep a record of.
+For example, he was the president of his synagogue and he made a habit of calling every member on their birthday. He did this up until the day he died. It’s an amazing thing to do, and I want to remember all the little things like that.
+Notion has been great for helping me clarify and develop my goals
+I also use Notion to record some personal goals and commitments, which is kind of interesting to look back at. On November 18th, 2019, I decided that I wanted to write twenty-five Superorganizers pieces:
+I was at a place in my life where I had essentially been ‘in the wilderness’ for a long time, and I made that resolution as a way to deliberately get working on a solid goal.
+Another thing I wanted to do at that point was find a co-founder and start a company with them. At that point, I didn't even conceptualize what that company might
+do
+, but I had a checklist of what kind of project I wanted it to be, and what kind of person I wanted to work with.
+What's funny is that I wrote this goal around Thanksgiving of 2019, and maybe ten days later I called Nathan and I said, "Hey, let's do a media company—we're going to write Substacks, and it's going to be business-focused." He was psyched about the idea, and basically we were off to the races: right after writing this down, Every really got started.
+I also keep a ‘Bad Feels Toolkit’—a list of things that I read to help me through situations that make me anxious, or when it’s hard for me to concentrate.
+On the other hand, I also have a list of nice things—poems or little pieces of inspiration that I’ve kept. It includes texts that made me feel good, or that are a record of a really good moment I shared with someone. For example, when we made our first dollar with Every, I kept screenshots of the celebratory Slack messages between Nathan and I:
+I use Muse on the iPad to help myself learn things
+One of the tools I’m using to help myself learn new things about the world is this very cool iPad app called Muse.
+For me, Muse is a really good way to think about things over a long period of time. It works a little like a physical desk. You get a two dimensional environment that you can place things on—PDFs, notes, images. And you can move things around, scribble on them, and highlight.
+I think the visual and spatial metaphors in Muse are great—it helps you to see the forest through the trees when you’re gathering information, and also to feel a little less overwhelmed. Your spatial brain is really good for organizing information, and that often gets lost in digital abstractions like outlines.
+For example, one of the things I do in Muse is I have a board called ‘History of Media’ where I gather information about the media industry.
+I'm currently reading a book called
+Merchants of Culture
+about book publishing, and I’m using my ‘History of Media’ board to help me understand and explore the concepts in the book.
+In Merchants of Culture, there's this really interesting exploration of the evolution of bookstores, and how they evolved from being small independent shops to large independent retail chains. There was a relationship between the rents they had to pay and the amount of inventory they had to keep and sell. I use Muse to help me figure out those dynamics because I’d like to know if there may be similar dynamics in the newsletter industry.
+Another thing I’ve been doing is looking at lots of old magazines, to help get a handle on the whole history of magazine publishing. Muse makes it really easy, for example, to create a visual reference that includes magazine covers, any text I gather from various places, and my own notes—basically I’m constructing a gallery of anything I come across that I want to keep.
+A couple of trends in productivity
+Writing Superorganizers has been a complete joy, and it's given me a lot of opinions on where things are going in productivity. One of the things that I think about a lot these days is automation.
+Over the last fifteen years, we've all accumulated a gigantic digital footprint that until recently had been very hard to sort in an automatic way. But now, off-the-shelf machine learning can basically do it for you. It can know, for example, what books you’ve read, and show them to you sorted by title. It can find every place that ‘Apple’ is mentioned in your notes.
+I think that any company that creates an automatic organizational system for your notes is going to do really well. It's so doable now, yet for some reason, nobody is tackling it yet.
+Another thing I’d say is that we're entering a phase—maybe we’ve been in it for a while—in which productivity systems and tools are a bit like fad diets. When you use something new, you may get more productive partly because the system is actually better. But like with a fad diet, it’s also due to the fact that just doing something
+new
+fills you with hope and motivation—
+which translates to better cognitive control, and more output.
+So when you use that new system or app that you're excited about—Roam, for example— you’re going to be more productive on it, for a few weeks, anyway. But once that effect fades, it’ll leave you maybe a
+little bit
+better than you had been in terms of productivity, but probably not exponentially so.
+I think more and more we're seeing that the productivity tools that do well are the ones that tell a really compelling story about how they're going to make you better. But over time we discover that they might indeed make us a little better, but they’re probably not as good as you think.
+Some thoughts on how to jump from aspirational productivity to the real thing
+There are many ways you can get in your own way about shipping stuff—typically it’s because you either lose interest, realize that it probably won't be as amazing as you think it will be, or get worried that other people are going to judge you for it. Those are some of the obstacles I’ve faced, anyway.
+When I’ve been in a place where I’m spinning my wheels and not producing anything, it’s really worked for me to just find a way to ship
+something
+. And that means lowering the stakes for myself about what I’m going to ship.
+In order to do that, there are a few different things I’ve said to encourage myself. ‘Well, I'm just learning how to do this’ is one. Or, ‘I just want to get this out there, and then the next time I'll make it as amazing as I want it to be.’ Or, ‘I have an infinite number of things that I'm going to launch, and this is just one of them—so it's fine as it is.’
+Those things have helped me get to a place where instead of feeling like I’m walking a tightrope a thousand stories high, it’s more like I’m walking on a wide plank that’s five feet off the ground: if I fall it’s just not that big a deal. And that's what works for me.
+A Book Recommendation
+See You in the Cosmos
+, by Jack Cheng. It's a book for younger readers, but it's absolutely beautiful. I feel like it captures the joy and wonder for science and space that I had as a kid—and it's a good way to keep that feeling alive.
+I read a ton of non-fiction and books like this are an amazing change of pace.
+What did you think of this post?
+Amazing
+Good
+Meh
+Bad
+Like this?
+Become a subscriber.
+Subscribe →
+Or,
+learn more
+.
+Read this next:
+Superorganizers
+How
+D
+avid Perell Writes an Essay
+Harnessing the power of surprise to create writing that spreads
+33
+1
+Dec 12, 2023
+          by
+Dan Shipper
+Superorganizers
+Following the ‘White-hot
+F
+ire Inside of You’
+For this artist, a sense of purpose is infinitely more powerful than any amount of inspiration
+197
+2
+Oct 16, 2023
+          by
+Kieran O‘Hare
+Superorganizers
+How I Bought a
+B
+usiness for $0
+Negotiate on either price or terms—not both
+105
+Sep 1, 2023
+          by
+Justin Mares
+The Sunday Digest
+How AI Works,
+C
+rypto’s Prophet Speaks, ChatGPT for Radical Self-betterment, and More
+Everything we published this week
+33
+Feb 4, 2024
+Napkin Math
+Profit, Power, and the
+V
+ision Pro
+Will Apple’s new headset change everything?
+39
+5
+Feb 6, 2024
+          by
+Evan Armstrong
+Thanks for rating this post—join the conversation by commenting below.
+Comments
+Post
+Post
+You need to
+login
+before you can comment.
+Don't have an account?
+Sign up!
+Cyril Pavillard
+about 3 years ago
+I have been trying to find Muse, the iPad app mentioned in the article but can’t find it. Do you have the link of the editor ? Thank you
+♡
+0
+·
+Reply
+Dan Shipper
+about 3 years ago
+@cyril.pavillard yup!! Here it is https://museapp.com/
+♡
+0
+·
+Reply
+John Exley
+about 3 years ago
+The best writer I've ever met in my life. The most honest human alive. What an ARTICLE. What an interview. So human. So vulnerable. So motivating. Love that you published this. Every til ∞ !!
+♡
+0
+·
+Reply
+Dan Shipper
+about 3 years ago
+@exleyja ❤️❤️
+♡
+0
+·
+Reply
+Dan Shipper
+about 3 years ago
+@exleyja ❤️❤️
+♡
+0
+·
+Reply
+Stanley Hataria
+almost 3 years ago
+Dan , I feel like i would love to know more about your grandfather and his commandments. Please write more :)
+♡
+0
+·
+Reply
+@2046smh
+over 2 years ago
+Love the bad feels toolkit. Wish those links were clickable!
+♡
+0
+·
+Reply
+Dan Shipper
+over 2 years ago
+@2046smh thank you!!
+♡
+0
+·
+Reply
+Caty Koroleva
+over 1 year ago
+Hi, @danshipper! I'm just joined Every and met this article by chance. And I have a question (that can be too banal): did you search a perfect instument for productivity? And how much apps did you try before you build your own system, that's desctibed here?
+♡
+0
+·
+Reply
+✕
+Every smart person you know is reading this newsletter
+Get one actionable essay a day on AI, tech, and personal development
+Subscribe
+Already a subscriber?
+Login
+Contact Us
+·
+Sponsor Us
+·
+Search
+·
+Terms
+©2024 Every Media, Inc
+
+参考链接:
+参考链接[1]: /
+参考链接[2]: /subscribe?publication=superorganizers
+参考链接[3]: https://every.to/search
+参考链接[4]: /about
+参考链接[5]: /collections
+参考链接[6]: /cdn-cgi/l/email-protection#e58d8089898aa5809380979ccb918a
+参考链接[7]: https://www.passionfroot.me/every
+参考链接[8]: /login
+参考链接[9]: /superorganizers
+参考链接[10]: https://every.to/@kjpohare
+参考链接[11]: /dan-shipper-the-sultan-of-superorganizers-4345/dan-shipper-the-sultan-of-superorganizers-4345/feedback?rating=amazing
+参考链接[12]: #comments
+参考链接[13]: https://twitter.com/kieranohare
+参考链接[14]: http://every.to
+参考链接[15]: https://review.firstround.com/This-23-Year-Old-Built-and-Sold-His-Startup-While-In-School-Heres-What-Made-the-Difference
+参考链接[16]: http://danshipper.com/latent-serendipity
+参考链接[17]: http://every.to/
+参考链接[18]: https://twitter.com/tonystubblebine
+参考链接[19]: https://twitter.com/fortelabs
+参考链接[20]: https://twitter.com/conaw
+参考链接[21]: https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/1591/optimized_priorities-2.png
+参考链接[22]: https://www.amazon.com/Merchants-Culture-John-B-Thompson/dp/0745647863
+参考链接[23]: https://every.to/superorganizers/dopamine-stacking-4289562
+参考链接[24]: https://bookshop.org/books/see-you-in-the-cosmos/9780399186387
+参考链接[25]: /superorganizers/dan-shipper-the-sultan-of-superorganizers-4345/feedback?rating=amazing
+参考链接[26]: /superorganizers/dan-shipper-the-sultan-of-superorganizers-4345/feedback?rating=good
+参考链接[27]: /superorganizers/dan-shipper-the-sultan-of-superorganizers-4345/feedback?rating=meh
+参考链接[28]: /superorganizers/dan-shipper-the-sultan-of-superorganizers-4345/feedback?rating=bad
+参考链接[29]: /subscribe?publication=superorganizers
+参考链接[30]: /
+参考链接[31]: /superorganizers/how-david-perell-writes-an-essay-7499268b-86cd-4d58-9ff0-8ec641506c5f
+参考链接[32]: /superorganizers
+参考链接[33]: /superorganizers/how-david-perell-writes-an-essay-7499268b-86cd-4d58-9ff0-8ec641506c5f
+参考链接[34]: https://every.to/@danshipper
+参考链接[35]: /superorganizers/following-the-white-hot-fire-inside-of-you
+参考链接[36]: /superorganizers
+参考链接[37]: /superorganizers/following-the-white-hot-fire-inside-of-you
+参考链接[38]: https://every.to/@kjpohare
+参考链接[39]: /superorganizers/how-i-bought-a-business-for-0-d1926a06-e70b-4463-84dc-d726c20f7f29
+参考链接[40]: /superorganizers
+参考链接[41]: /superorganizers/how-i-bought-a-business-for-0-d1926a06-e70b-4463-84dc-d726c20f7f29
+参考链接[42]: https://every.to/@jwmares
+参考链接[43]: /everything/how-ai-works-crypto-s-prophet-speaks-chatgpt-for-radical-self-betterment-and-more
+参考链接[44]: /everything
+参考链接[45]: /everything/how-ai-works-crypto-s-prophet-speaks-chatgpt-for-radical-self-betterment-and-more
+参考链接[46]: /napkin-math/profit-power-and-the-vision-pro
+参考链接[47]: /napkin-math
+参考链接[48]: /napkin-math/profit-power-and-the-vision-pro
+参考链接[49]: https://every.to/@ItsUrBoyEvan
+参考链接[50]: /login
+参考链接[51]: /subscribe?publication=superorganizers
+参考链接[52]: /@cyril.pavillard
+参考链接[53]: #
+参考链接[54]: #
+参考链接[55]: #
+参考链接[56]: /@danshipper
+参考链接[57]: #
+参考链接[58]: #
+参考链接[59]: #
+参考链接[60]: /@exleyja
+参考链接[61]: #
+参考链接[62]: #
+参考链接[63]: #
+参考链接[64]: /@danshipper
+参考链接[65]: #
+参考链接[66]: #
+参考链接[67]: #
+参考链接[68]: /@danshipper
+参考链接[69]: #
+参考链接[70]: #
+参考链接[71]: #
+参考链接[72]: /@5bd7c0fc
+参考链接[73]: #
+参考链接[74]: #
+参考链接[75]: #
+参考链接[76]: /@2046smh
+参考链接[77]: #
+参考链接[78]: #
+参考链接[79]: #
+参考链接[80]: /@danshipper
+参考链接[81]: #
+参考链接[82]: #
+参考链接[83]: #
+参考链接[84]: /@ekaterina.korolyova
+参考链接[85]: #
+参考链接[86]: #
+参考链接[87]: #
+参考链接[88]: /subscribe?publication=superorganizers
+参考链接[89]: /login
+参考链接[90]: /cdn-cgi/l/email-protection#19717c757576597c6f7c6b60376d76
+参考链接[91]: https://www.passionfroot.me/every
+参考链接[92]: https://every.to/search
+参考链接[93]: /legal

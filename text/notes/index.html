@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>工具列表</title>
+    <style>
+        body {
+            background: #fff;
+            color: #333;
+            font-family: -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, SF Pro SC, SF Pro Text, Helvetica Neue;
+            margin: 0;
+            overflow-x: hidden;
+            overflow-y: scroll;
+            text-rendering: optimizeLegibility;
+        }
+        html {
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+            box-sizing: border-box;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        *, :after, :before {
+            box-sizing: inherit;
+        }
+        * {
+            background-repeat: no-repeat;
+            margin: 0;
+            padding: 0;
+        }
+        ::selection {
+            background-color: #b3d4fc;
+            color: #000;
+            text-shadow: none;
+        }
+        a {
+            -webkit-text-decoration-skip: objects;
+            background-color: transparent;
+            color: #007BFF;
+            -webkit-text-decoration: none;
+            text-decoration: none;
+        }
+        a:active, a:hover {
+            outline-width: 0;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding-left: 10px;
+            border-left: 4px solid #007BFF;
+        }
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+        }
+        .nav-item {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            width: 180px; /* 调整宽度 */
+            margin: 10px; /* 调整间距 */
+            padding: 10px; /* 调整内边距 */
+            text-align: left;
+            overflow: hidden;
+        }
+        .nav-item p {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 20px;
+            overflow: hidden;
+            margin: 0 0 5px;
+        }
+        .nav-item span {
+            color: #666;
+            font-size: 12px;
+        }
+        @media screen and (max-width: 768px) {
+            .nav-item {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 消息来源 -->
+        <div class="section">
+            <div class="section-title">消息来源</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">消息来源 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">消息来源 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">消息来源 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+        <!-- 币圈数据 -->
+        <div class="section">
+            <div class="section-title">币圈数据</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">币圈数据 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">币圈数据 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">币圈数据 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+        <!-- 链上数据 -->
+        <div class="section">
+            <div class="section-title">链上数据</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">链上数据 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">链上数据 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">链上数据 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+        <!-- DeFi -->
+        <div class="section">
+            <div class="section-title">DeFi</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">DeFi 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">DeFi 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">DeFi 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+        <!-- 个人关注 -->
+        <div class="section">
+            <div class="section-title">个人关注</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">个人关注 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">个人关注 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">个人关注 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+        <!-- 追踪地址 -->
+        <div class="section">
+            <div class="section-title">追踪地址</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">追踪地址 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">追踪地址 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">追踪地址 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+        <!-- BTC 生态 -->
+        <div class="section">
+            <div class="section-title">BTC 生态</div>
+            <div class="card-container">
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">BTC 生态 1</a></p>
+                    <span>描述 1</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">BTC 生态 2</a></p>
+                    <span>描述 2</span>
+                </div>
+                <div class="nav-item">
+                    <p><a href="#" target="_blank">BTC 生态 3</a></p>
+                    <span>描述 3</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
