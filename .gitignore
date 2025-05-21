@@ -1,0 +1,32 @@
+# 忽略大文件
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pdf
+*.psd
+*.ai
+*.zip
+*.rar
+*.7z
+*.iso
+*.dmg
+
+# 忽略特定目录
+book/Mindviscosity*
+book/iShot_*
+book/videoplayback*
+media/videoplayback*
+media/Telegram*
+
+# 其他通用忽略
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+ENV/
+.idea/
+.vscode/
+*.log 

@@ -1,0 +1,4 @@
+Summary of DRIP:
+Total Addresses: 1496
+Number of Common Addresses with other Tokens: 89
+Percentage of Common Addresses: 5.95%
